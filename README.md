@@ -6,4 +6,17 @@
 
 - [x] IP Address Tracking
 - [x] Facebook Hacking [Brute-Force]
+- [x] Facebook Spam Like + Comments
+- [x] Zip Cracking
+- [x] Wi-Fi Cracker
+- [x] Virus Generator
+- [x] UserFinder
+- [x] CCTV Hacking
+- [x] Ddos Attack 
+- [x] Instagram Post Hacking
+- [x] Camera Hacking
+- [x] FTP Server Hacking [Brute-Force]
 
+# NOTICE!
+
+This Tool Is For Educational Purposes Only Not For Cyber Attack 
